@@ -38,7 +38,6 @@
     },
   
     "documents": {
-      // "about": "/app/data/about.md"
     }
   
   }
