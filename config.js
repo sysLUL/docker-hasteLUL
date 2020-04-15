@@ -38,7 +38,7 @@
     },
   
     "documents": {
-      "about": "/app/data/about.md"
+      // "about": "/app/data/about.md"
     }
   
   }
