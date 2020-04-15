@@ -33,12 +33,12 @@
     },
   
     "storage": {
-        "path": "app/data",
+        "path": "/app/data",
         "type": "file"
     },
   
     "documents": {
-      "about": "app/data/about.md"
+      "about": "/app/data/about.md"
     }
   
   }
